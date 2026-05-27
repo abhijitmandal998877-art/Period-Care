@@ -1,0 +1,6 @@
+{
+  "name": "Period Care",
+  "description": "Period tracker featuring mood logging, health insights, menstrual tips, pain relief yoga, customized notifications, and an admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
